@@ -1,0 +1,4 @@
+# Ignore input files in any directory
+**/input.txt
+**/small_input.txt
+small_input.txt
